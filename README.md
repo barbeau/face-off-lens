@@ -1,6 +1,6 @@
 # Face Off Lens
 
-A Snapchat/Snap Camera lens to train you to stop touching your face while teleworking:
+A [Snapchat](https://www.snapchat.com/) / [Snap Camera](https://snapcamera.snapchat.com/) lens to train you to stop touching your face while teleworking:
 1. Makes a sound when you touch your face
 1. Keeps a count of the number of times you touch your face
 
@@ -8,18 +8,34 @@ Debug view (showing bounding boxes on face and hand):
 
 ![face-off - demo screen capture-v2-cropped](https://user-images.githubusercontent.com/928045/81720889-007ff580-944d-11ea-9411-0e5af8492eba.gif)
 
-## Use
+## Getting started with your webcam
 
-*Coming soon - Lens submitted for publication to the Snapchat store and is under review*
+While you could use this lens on mobile, I recommend using it with your desktop/laptop webcam while you telework (this is the environment I've optimized it for).
+
+![image](https://user-images.githubusercontent.com/928045/81722835-fa3f4880-944f-11ea-8ca9-c1e6331a94fc.png)
 
 1. Download and install [Snap Camera](https://snapcamera.snapchat.com/).
-1. Search for the lens "Face off"
+1. In Snap Camera, search for the lens "Face Off", or paste the link https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=dedb7f698ba74bdf901d5f263c2d4fb1&metadata=01 into the search bar
 1. Telework and learn to stop touching your face!
 
-## Developers
+### Web meetings
+
+You can use Snap Camera with your favorite video conferencing software - compete with your friends to see who touches their face the least! 
+
+Check out the following articles for using Snap Camera with various video conferencing tools:
+* [Microsoft Teams](https://www.howtogeek.com/667559/how-to-look-like-a-potato-in-a-microsoft-teams-video-conference/)
+* [Google Meet](https://support.lensstudio.snapchat.com/hc/en-us/articles/360041102692-How-do-I-use-Snap-Camera-with-Google-Meet-)
+* [Google Hangouts](https://support.lensstudio.snapchat.com/hc/en-us/articles/360041102772-How-do-I-use-Snap-Camera-with-Google-Hangout-)
+* [Zoom](https://support.lensstudio.snapchat.com/hc/en-us/articles/360041102572-How-do-I-use-Snap-Camera-with-Zoom-)
+* [Skype](https://support.lensstudio.snapchat.com/hc/en-us/articles/360041102912-How-do-I-use-Snap-Camera-with-Skype-)
+
+## Developer Guide
 
 1. Open the project in [Lens Studio](https://lensstudio.snapchat.com/)
-1. Open the "Preview" window
+1. Open the "Preview" window to see the debug mode with the bounding boxes
+1. Check out the [GitHub issues](https://github.com/barbeau/face-off-lens/issues) to see if there is a way you can help improve the project!
+
+*More details come*
 
 # Acknowledgements
 
