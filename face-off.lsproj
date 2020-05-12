@@ -3,7 +3,7 @@
     "document_id": "rQwhLdf0gd-dws_mDkH9",
     "original_document_id": "PLlSGQD3gKOhfuN3F2FP",
     "version": "23",
-    "lastChanged": "1588274727613",
+    "lastChanged": "1589297021709",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -58,6 +58,7 @@
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
+                "",
                 ""
             ]
         },
@@ -75,7 +76,7 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "1"
+                "camera_type": "2"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
@@ -315,7 +316,8 @@
                 "13": "1588170615751160:5178",
                 "14": "1588175645598827:46592",
                 "15": "1588175645648216:46727",
-                "16": "1588178638072529:153930"
+                "16": "1588178638072529:153930",
+                "17": "1589235828426899:66172"
             }
         },
         "LayerComponent": {
@@ -682,11 +684,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1586832887482021:76195"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
