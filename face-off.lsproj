@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "74a7281a-7c92-425a-974a-d7b9239dd43b",
     "document_id": "rQwhLdf0gd-dws_mDkH9",
     "original_document_id": "PLlSGQD3gKOhfuN3F2FP",
     "version": "23",
-    "lastChanged": "1589297021709",
+    "lastChanged": "1589305398103",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -63,7 +63,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "b3ce0946e938fac11a7089dcbb8bf4e3",
+            "icon_hash": "9f67fc67d8586e11f8e0bd651a7b99c7",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
@@ -76,7 +76,7 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "2"
+                "camera_type": "1"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
@@ -684,7 +684,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1586832887482021:76195"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
