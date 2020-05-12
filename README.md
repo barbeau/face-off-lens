@@ -1,7 +1,7 @@
 # Face Off Lens
 
 A [Snapchat](https://www.snapchat.com/) / [Snap Camera](https://snapcamera.snapchat.com/) lens to train you to stop touching your face while teleworking:
-1. Makes a sound when you touch your face
+1. Makes [a sound](https://www.youtube.com/watch?v=zwT4HTiKba0) when you touch your face
 1. Keeps a count of the number of times you touch your face
 
 Debug view (showing bounding boxes on face and hand):
