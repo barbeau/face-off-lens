@@ -35,9 +35,11 @@ Check out the following articles for using Snap Camera with various video confer
 1. Open the "Preview" window to see the debug mode with the bounding boxes
 1. Check out the [GitHub issues](https://github.com/barbeau/face-off-lens/issues) to see if there is a way you can help improve the project!
 
-*More details come*
-
 # Acknowledgements
 
 * Video for core collision detection code - https://www.youtube.com/watch?v=viOmxZDan-Y
 * Sound - Downloaded from http://soundbible.com/1815-A-Tone.html, used under public domain license
+
+# Donate to Feeding America
+
+If you find this lens helpful, please consider donating to [Feeding America](https://www.feedingamerica.org/) to support families in need.
