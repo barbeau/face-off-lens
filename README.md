@@ -10,13 +10,14 @@ Debug view (showing bounding boxes on face and hand):
 
 ## Getting started with your webcam
 
-While you could use this lens on mobile, I recommend using it with your desktop/laptop webcam while you telework (this is the environment I've optimized it for).
+While you could use this lens on mobile, it has been optimized for use with your desktop/laptop webcam while you telework.
 
-[![image](https://user-images.githubusercontent.com/928045/81722835-fa3f4880-944f-11ea-8ca9-c1e6331a94fc.png)](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=dedb7f698ba74bdf901d5f263c2d4fb1&metadata=01)
-
+Here's how to set it up on your computer:
 1. Download and install [Snap Camera](https://snapcamera.snapchat.com/).
 1. In Snap Camera, search for the lens "Face Off", or paste the link https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=dedb7f698ba74bdf901d5f263c2d4fb1&metadata=01 into the search bar
 1. Telework and learn to stop touching your face!
+
+[![image](https://user-images.githubusercontent.com/928045/81722835-fa3f4880-944f-11ea-8ca9-c1e6331a94fc.png)](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=dedb7f698ba74bdf901d5f263c2d4fb1&metadata=01)
 
 ### Web meetings
 
