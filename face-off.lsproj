@@ -3,7 +3,7 @@
     "document_id": "rQwhLdf0gd-dws_mDkH9",
     "original_document_id": "PLlSGQD3gKOhfuN3F2FP",
     "version": "23",
-    "lastChanged": "1589305398103",
+    "lastChanged": "1589388053126",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -427,11 +427,11 @@
                     },
                     {
                         "k": "666",
-                        "v": "7e94b41f0b1b5a40a34679f14ebca361"
+                        "v": "f0a4e2d0ceaa39bc6fbae3259abf25fe"
                     },
                     {
                         "k": "667",
-                        "v": "dc3f70999b32d2e6b4fe119be27f4c37"
+                        "v": "060c3269728f82eea57c0362cc258ddd"
                     },
                     {
                         "k": "668",
@@ -465,9 +465,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-29T12:36:05",
+                        "lastModified": "2020-05-13T12:40:22",
                         "name": "Public",
-                        "hash": "3a61806b9cb4e3f1864791e5a252e15c",
+                        "hash": "07e8dae57fcacb8792c6fab5d2b35c14",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -478,9 +478,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-29T10:35:34",
+                                "lastModified": "2020-05-13T12:40:16",
                                 "name": "AABB.js",
-                                "hash": "dc3f70999b32d2e6b4fe119be27f4c37",
+                                "hash": "060c3269728f82eea57c0362cc258ddd",
                                 "children": ""
                             },
                             {
@@ -506,9 +506,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-29T12:35:53",
+                                "lastModified": "2020-05-13T12:40:22",
                                 "name": "Detection.js",
-                                "hash": "7e94b41f0b1b5a40a34679f14ebca361",
+                                "hash": "f0a4e2d0ceaa39bc6fbae3259abf25fe",
                                 "children": ""
                             },
                             {
@@ -685,8 +685,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1586832887482021:76195"
+                "resources": [
+                    {
+                        "uid": "1586832875512301:75976",
+                        "path_list": [
+                            "AABB"
+                        ]
+                    }
                 ]
             }
         },

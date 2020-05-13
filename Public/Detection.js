@@ -1,4 +1,5 @@
 // -----JS CODE-----
+// Derived from code presented in https://www.youtube.com/watch?v=viOmxZDan-Y
 // @input Component.AudioComponent audio
 // @input Component.Text text
 
