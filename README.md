@@ -43,3 +43,5 @@ Check out the following articles for using Snap Camera with various video confer
 # Donate to Feeding America
 
 If you find this lens helpful, please consider donating to [Feeding America](https://www.feedingamerica.org/) to support families in need.
+
+If you'd prefer to donate locally, find your local food bank [here](https://www.feedingamerica.org/find-your-local-foodbank).
